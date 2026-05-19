@@ -35,7 +35,7 @@ function desplegarMenu(){
                <a href="/"><img :src="mach" class="size-12 md:size-12 pb-2" alt="mach icono"/></a>
             </div>
             <div v-if="!isMobile" class="flex font-sans text-sm gap-8 font-medium pr-3">
-                <a href="">Nosotros</a>
+                <a href="/Nosotros">Nosotros</a>
                 <a href="">Productos</a>
                 <a href="">Soporte</a>
                 <a href=""><Icon name="search"/></a>
